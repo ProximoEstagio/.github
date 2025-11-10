@@ -4,10 +4,11 @@
 
 A **plataforma web "Próximo Estágio"** foi idealizada como uma solução inovadora para **automatizar e centralizar o processo de envio, análise e validação dos documentos obrigatórios** relacionados ao **Estágio Supervisionado na Fatec** dos cursos de:
 
-- 💻 **Tecnologia em Desenvolvimento de Software Multiplataforma (DSM)**
+- 💻 **Desenvolvimento de Software Multiplataforma (DSM)**
 - 🖥️ **Gestão da Tecnologia da Informação (GTI)**
 
-Atualmente, esse processo é manual, descentralizado e suscetível a falhas — os documentos são enviados por e-mail ao coordenador de estágio, que precisa analisá-los e organizá-los localmente.  
+Atualmente, esse processo é manual, descentralizado e suscetível a falhas
+Os documentos são enviados por e-mail ao coordenador de estágio, que precisa analisá-los e organizá-los localmente por meio de pastas e outras tecnologias inapropriadas.  
 A plataforma "Próximo Estágio" surge para eliminar esses problemas, oferecendo um **ambiente seguro, automatizado e eficiente** para todos os envolvidos.
 
 ---
@@ -52,7 +53,7 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 
 ---
 
-## 🔮 Futuras Implementações
+### 🔮 Futuras Implementações
 
 - 🔗 Integração com o **SIGA** para lançamento automático de notas e carga horária;  
 - 🧾 Geração de documentos com **modelos pré-definidos**;  
@@ -77,7 +78,9 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 | Categoria | Tecnologias |
 |------------|--------------|
 | Frontend | HTML / CSS / JavaScript |
-| Banco de Dados | mySQL |
+| Backend | PHP |
+| Banco de Dados | MySQL |
+
 
 ---
 
