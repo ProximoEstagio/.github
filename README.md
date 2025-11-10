@@ -13,7 +13,7 @@ A plataforma "Próximo Estágio" surge para eliminar esses problemas, oferecendo
 
 ---
 
-### 🚀 Objetivo
+## 🚀 Objetivo
 
 Automatizar o processo de **armazenamento, organização e acompanhamento** dos documentos de estágio, garantindo:
 
@@ -23,9 +23,9 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 
 ---
 
-### 🧭 Funcionamento da Plataforma
+## 🧭 Funcionamento da Plataforma
 
-#### 👨‍🎓 Alunos
+### 👨‍🎓 Alunos
 - Acessam o sistema com suas **credenciais acadêmicas**;
 - Visualizam os **documentos exigidos** conforme o curso e o semestre;
 - Fazem o **upload dos arquivos obrigatórios**:
@@ -34,7 +34,7 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
   - Declaração de Atividades
 - Recebem **notificações automáticas** sobre o status dos envios.
 
-#### 👨‍🏫 Coordenadores
+### 👨‍🏫 Coordenadores
 - Acessam um **painel administrativo completo**;
 - Visualizam os **alunos matriculados**, documentos enviados, prazos e status;
 - Podem **aprovar, reprovar ou solicitar reenvio** dos documentos com justificativas;
@@ -42,7 +42,7 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 
 ---
 
-### 🔔 Funcionalidades Principais
+## 🔔 Funcionalidades Principais
 
 - ✅ Envio centralizado de documentos de estágio;  
 - 📂 Organização automática por aluno, curso, tipo de documento e data;  
@@ -62,7 +62,7 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 
 ---
 
-### 🧠 Benefícios
+## 🧠 Benefícios
 
 - Redução de erros e perdas de documentos;  
 - Aumento da produtividade do coordenador;  
@@ -73,7 +73,7 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 
 ---
 
-### 🏗️ Tecnologias 
+## 🏗️ Tecnologias 
 
 | Categoria | Tecnologias |
 |------------|--------------|
