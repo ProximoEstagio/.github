@@ -4,15 +4,16 @@
 
 A **plataforma web "Próximo Estágio"** foi idealizada como uma solução inovadora para **automatizar e centralizar o processo de envio, análise e validação dos documentos obrigatórios** relacionados ao **Estágio Supervisionado na Fatec** dos cursos de:
 
-- 💻 **Tecnologia em Desenvolvimento de Software Multiplataforma (DSM)**
+- 💻 **Desenvolvimento de Software Multiplataforma (DSM)**
 - 🖥️ **Gestão da Tecnologia da Informação (GTI)**
 
-Atualmente, esse processo é manual, descentralizado e suscetível a falhas — os documentos são enviados por e-mail ao coordenador de estágio, que precisa analisá-los e organizá-los localmente.  
+Atualmente, esse processo é manual, descentralizado e suscetível a falhas
+Os documentos são enviados por e-mail ao coordenador de estágio, que precisa analisá-los e organizá-los localmente por meio de pastas e outras tecnologias inapropriadas.  
 A plataforma "Próximo Estágio" surge para eliminar esses problemas, oferecendo um **ambiente seguro, automatizado e eficiente** para todos os envolvidos.
 
 ---
 
-## 🚀 Objetivo
+### 🚀 Objetivo
 
 Automatizar o processo de **armazenamento, organização e acompanhamento** dos documentos de estágio, garantindo:
 
@@ -22,9 +23,9 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 
 ---
 
-## 🧭 Funcionamento da Plataforma
+### 🧭 Funcionamento da Plataforma
 
-### 👨‍🎓 Alunos
+#### 👨‍🎓 Alunos
 - Acessam o sistema com suas **credenciais acadêmicas**;
 - Visualizam os **documentos exigidos** conforme o curso e o semestre;
 - Fazem o **upload dos arquivos obrigatórios**:
@@ -33,7 +34,7 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
   - Declaração de Atividades
 - Recebem **notificações automáticas** sobre o status dos envios.
 
-### 👨‍🏫 Coordenadores
+#### 👨‍🏫 Coordenadores
 - Acessam um **painel administrativo completo**;
 - Visualizam os **alunos matriculados**, documentos enviados, prazos e status;
 - Podem **aprovar, reprovar ou solicitar reenvio** dos documentos com justificativas;
@@ -41,7 +42,7 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 
 ---
 
-## 🔔 Funcionalidades Principais
+### 🔔 Funcionalidades Principais
 
 - ✅ Envio centralizado de documentos de estágio;  
 - 📂 Organização automática por aluno, curso, tipo de documento e data;  
@@ -52,7 +53,7 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 
 ---
 
-## 🔮 Futuras Implementações
+### 🔮 Futuras Implementações
 
 - 🔗 Integração com o **SIGA** para lançamento automático de notas e carga horária;  
 - 🧾 Geração de documentos com **modelos pré-definidos**;  
@@ -61,7 +62,7 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 
 ---
 
-## 🧠 Benefícios
+### 🧠 Benefícios
 
 - Redução de erros e perdas de documentos;  
 - Aumento da produtividade do coordenador;  
@@ -72,12 +73,14 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 
 ---
 
-## 🏗️ Tecnologias 
+### 🏗️ Tecnologias 
 
 | Categoria | Tecnologias |
 |------------|--------------|
 | Frontend | HTML / CSS / JavaScript |
-| Banco de Dados | mySQL |
+| Backend | PHP |
+| Banco de Dados | MySQL |
+
 
 ---
 
