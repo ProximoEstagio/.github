@@ -77,6 +77,7 @@ Automatizar o processo de **armazenamento, organização e acompanhamento** dos 
 | Categoria | Tecnologias |
 |------------|--------------|
 | Frontend | HTML / CSS / JavaScript |
+| Backend | PHP / JavaScript |
 | Banco de Dados | mySQL |
 
 ---
